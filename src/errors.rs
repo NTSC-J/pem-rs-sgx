@@ -3,6 +3,7 @@
 // Licensed under the MIT license <LICENSE.md or
 // http://opensource.org/licenses/MIT>. This file may not be
 // copied, modified, or distributed except according to those terms.
+use std::prelude::v1::*;
 use std::error::Error;
 use std::fmt;
 
